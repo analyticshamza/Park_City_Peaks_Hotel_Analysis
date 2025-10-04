@@ -26,5 +26,5 @@ The analysis is based on raw booking data extracted from the hotel's internal **
 ## Files Included
 
 * `Park City Peaks Hotel Analytics.twb`: The core Tableau Workbook file.
-* `<img width="1607" height="924" alt="04 10 2025_13 17 25_REC" src="https://github.com/user-attachments/assets/78754342-7c70-4c45-9e95-925346efbdf7" />
-`: A static image of the final dashboard design.
+* <img width="1607" height="924" alt="04 10 2025_13 17 25_REC" src="https://github.com/user-attachments/assets/2dd3b9cc-3692-4dbe-82c3-dcf9eff69f15" />
+
