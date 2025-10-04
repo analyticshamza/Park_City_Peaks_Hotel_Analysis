@@ -1,4 +1,4 @@
-                                                        ![Park+City+Peaks+Hotel](https://github.com/user-attachments/assets/cb09a791-7ff3-4c57-adba-fbfb057ac240)
+![Park+City+Peaks+Hotel](https://github.com/user-attachments/assets/cb09a791-7ff3-4c57-adba-fbfb057ac240)
 
 # Park City Peaks Hotel Booking Analysis Dashboard
 
